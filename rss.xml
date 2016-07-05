@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adventure Is Out There]]></title>
+        <description><![CDATA[Adventure Is Out There]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 20:13:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Build]]></title>
+            <description><![CDATA[<article><h1>Build</h1><p>Sentence about fitness</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad91385e3b5e7b03444c32327a88048b/croprotate.jpg?cropheight=3059&cropwidth=2449&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1cf6badc-fc70-4385-9058-7572a4aa5833.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedbuild/index.html</link>
+            <guid isPermaLink="false">4712db01-1f9d-4a3c-8cec-999f7efd7f8d</guid>
+            <pubDate>Tue, 05 Jul 2016 20:13:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
