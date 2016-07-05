@@ -1,14 +1,14 @@
-layout_spectrum: 0.7795969764702022
-typography_spectrum: 0.9785339962691069
+layout_spectrum: 0.3753969327080995
+typography_spectrum: 0.5546877807937562
 color:
-  brandStrength: 0.12630148860625923
-  lightness: 0.4040711987763643
-  saturation: 0.38067206973209977
-  rhythmicContrast: 0.4291968308389187
+  brandStrength: 0.11890128743834794
+  lightness: 0.8562297683674842
+  saturation: 0.6149562152568251
+  rhythmicContrast: 0.6841424636077136
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Process Sports
