@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Adventure Is Out There]]></title>
         <description><![CDATA[Adventure Is Out There]]></description>
-        <link>https://thegrid.ai/process-sports/</link>
+        <link>https://thegrid.ai/adventureisoutthere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 20:14:28 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/process-sports/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 14:14:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adventureisoutthere/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Build]]></title>
+            <description><![CDATA[<article><h1>Build</h1><h2>Build</h2><p>Sentence about fitness</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c553567a146f2588fd35d24b2e2c6f2a8e3db81f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adventureisoutthere/build/index.html</link>
+            <guid isPermaLink="false">4712db01-1f9d-4a3c-8cec-999f7efd7f8d</guid>
+            <pubDate>Thu, 18 Aug 2016 14:14:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Plate]]></title>
             <description><![CDATA[<article><h1>Plate</h1><p>Sentence about food</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1d32105a54d9d89e483ba0384354f52d2dcf9ef.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c0a1d44-856b-444c-8085-5b87b520f6b0.jpg</link>
             <guid isPermaLink="false">d5fce5c2-e5a3-4350-9bc2-e7a8c17eb7d4</guid>
             <pubDate>Tue, 05 Jul 2016 20:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build]]></title>
-            <description><![CDATA[<article><h1>Build</h1><p>Sentence about fitness</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad91385e3b5e7b03444c32327a88048b/croprotate.jpg?cropheight=3059&cropwidth=2449&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1cf6badc-fc70-4385-9058-7572a4aa5833.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/process-sports/build/index.html</link>
-            <guid isPermaLink="false">4712db01-1f9d-4a3c-8cec-999f7efd7f8d</guid>
-            <pubDate>Tue, 05 Jul 2016 20:13:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
